@@ -57,4 +57,3 @@
 const myname = "Koshi";
 const message1 = "私の名前は" + myname + "です。";
 console.log(message1);
-
