@@ -48,3 +48,13 @@
 // var5[0] = "bird";
 // var5.push("monkey");
 // console.log(var5);
+
+/**
+ * テンプレート文字列
+ */
+
+// 従来の方法
+const myname = "Koshi";
+const message1 = "私の名前は" + myname + "です。";
+console.log(message1);
+
